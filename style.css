@@ -186,7 +186,7 @@
 .article-section {
     /* position: absolute; */
     width: 1516px;
-    height: 2261px;
+    height: 2361px;
     margin: 98px 197px 120px 202px;
     display: flex;
     flex-direction: row;
@@ -222,12 +222,12 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    gap: 32px;
+    gap: 0;
     padding: 0px;
     flex: none;
     order: 0;
     flex-grow: 0;
-    margin: 64px 0px;
+    margin: 0px 0px 150px ;
 }
 
 .article-header-tittle {
